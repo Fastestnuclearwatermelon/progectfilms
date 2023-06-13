@@ -2,7 +2,7 @@
   "name": "progectfilms",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Fastestnuclearwatermelon.github.io",
+  "homepage": "https://Fastestnuclearwatermelon.github.io/progectfilms",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
